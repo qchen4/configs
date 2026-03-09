@@ -10,3 +10,11 @@ Host linlabs
 Host ice 
 	HostName login-ice.pace.gatech.edu
 	User qchen438
+
+Host HomePC
+	HostName 100.64.35.110
+`	Usr qchen438
+
+Host dojo
+	HostName dojo.pwn.college
+	User hacker 
