@@ -1,0 +1,12 @@
+Host linlab22
+  HostName ece-linlab22.ece.gatech.edu
+  User qchen438
+
+Host linlabs
+  HostName ece-linlabsrv01.ece.gatech.edu
+  User qchen438
+
+
+Host ice 
+	HostName login-ice.pace.gatech.edu
+	User qchen438
